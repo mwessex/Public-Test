@@ -4,3 +4,6 @@ obj
 
 # mstest test results
 TestResults
+/TestPtoject/nbproject/private/
+/Public-Test/nbproject/private/
+/nbproject/private/
